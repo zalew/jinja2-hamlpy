@@ -28,7 +28,6 @@ setup(
     # Dependencies
     install_requires = [
         'Jinja2 >= 2.6',
-        'hamlpy >= 0.80',
         'Pygments >= 1.5'
     ],
 
